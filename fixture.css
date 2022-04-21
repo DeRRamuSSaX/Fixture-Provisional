@@ -1,0 +1,15 @@
+body {
+  font-family: "Roboto";
+}
+header {
+  background: gray;
+  color: black;
+  text-align: center;
+}
+.match {
+  border: 1px solid gray;
+  margin: 3px;
+  padding: 5px;
+  text-align: center;
+  box-shadow: 1px 1px gray;
+}
